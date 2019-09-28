@@ -10,5 +10,5 @@ This is MERN application.
 You need to configure the database before running this application.
 
 This is simple chat applkication where you can create the room and 
-store the chat conversation on database.
+store the chat conversation  in database.
 
